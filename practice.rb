@@ -1,4 +1,4 @@
-def this is code
+def first_method
   
 end
 
